@@ -1,4 +1,3 @@
-const mongoose = require('mongoose')
 const models_model = require('../models/models_model')
 const brand_model = require('../models/brand_model')
 

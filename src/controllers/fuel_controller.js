@@ -1,4 +1,3 @@
-const mongoose = require("mongoose");
 const fuelmodel = require('../models/fuel_model')
 
 

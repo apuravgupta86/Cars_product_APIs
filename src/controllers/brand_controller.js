@@ -1,8 +1,5 @@
-const mongoose = require("mongoose");
 const brand_model = require("../models/brand_model");
-const brand_router = require("../routers/brand_router");
 
-// console.log('DNO AD NF no jn on'.toLowerCase().replace(/ /g,'-'))
 
 const add_brand = async (req, res) => {
   try {
